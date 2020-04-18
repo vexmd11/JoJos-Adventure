@@ -1,5 +1,5 @@
 # JoJos-Adventure
-This project was made by Michael Bassani and Joseph Distefano from November 2017 to January 2018. 
+This project was made by Michael Bassani and Joseph Distefano from January to February 2018. 
 Most assets used were not created by us. Only some were created from scratch. 
 
 Link to all asset used (zip): https://drive.google.com/file/d/1eiPPPtGtnB5PffPAQkZyzZ4qezKu6i0E/view?usp=sharing
